@@ -1,3 +1,5 @@
+<img width="1056" height="265" alt="Screenshot 2026-05-22 at 4 59 52 AM" src="https://github.com/user-attachments/assets/1888eb64-0551-48e8-925e-b87b2d7ff599" />
+
 # Amber Krishna Khaitan 🌌
 
 I am an undergraduate physics student at IISER Kolkata specializing in computational astrophysics and foundational physics. I leverage numerical simulations, data science frameworks, and quantum computing paradigms to model complex physical systems.
