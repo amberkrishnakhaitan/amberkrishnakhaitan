@@ -4,13 +4,6 @@ I am an undergraduate physics student at IISER Kolkata specializing in computati
 
 ---
 
-### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amberk_khaitan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-krishna-khaitan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amberkrishnakh29@gmail.com)
-
----
-
 ### 💻 Technical Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
@@ -33,6 +26,13 @@ I am an undergraduate physics student at IISER Kolkata specializing in computati
 * 💻 Deepening competencies in data science frameworks and Python applications.
 * ♟️ Unwinding with a game of chess, focusing on tactical depth and strategic opening systems.
 * 📸 Documenting natural and architectural landscapes through digital photography and cinematography.
+
+---
+
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amberk_khaitan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-krishna-khaitan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amberkrishnakh29@gmail.com)
 
 ---
 
