@@ -26,4 +26,4 @@ I am an undergraduate physics student deeply interested in exploring the univers
 - 📸 Capturing the world through digital photography and landscape videography.
 
 ---
-
+*“Somewhere, something incredible is waiting to be known.”* — **Carl Sagan**
