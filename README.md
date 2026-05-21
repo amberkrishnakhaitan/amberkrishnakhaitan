@@ -1,29 +1,39 @@
-# Hi there, I'm Amber Krishna Khaitan 👋
+# Amber Krishna Khaitan 🌌
 
-I am an undergraduate physics student deeply interested in exploring the universe through the lenses of astrophysics and computation. I use this space to share my academic projects, numerical simulations, and coding journeys.
+I am an undergraduate physics student at IISER Kolkata specializing in computational astrophysics and foundational physics. I leverage numerical simulations, data science frameworks, and quantum computing paradigms to model complex physical systems.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amberk_khaitan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amber-krishna-khaitan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amberkrishnakh29@gmail.com) 
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amberk_khaitan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-krishna-khaitan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amberkrishnakh29@gmail.com)
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+---
+
+### 💻 Technical Toolkit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ### 🌌 Fields I Indulge In
-*   **Astrophysics & Astronomy:** High-energy phenomena, relativistic mechanics, and compact objects.
-*   **Computational Physics:** Numerical simulations, data analysis, and modeling physical systems.
-*   **Quantum Computing:** Exploring quantum circuits, algorithms, and quantum mechanics.
+* **Astrophysics & Astronomy:** High-energy phenomena, relativistic mechanics, and compact objects (black holes, neutron stars, and pulsars).
+* **Computational Physics:** Numerical modeling, scientific computing, and statistical data analysis.
+* **Quantum Computing:** Exploring quantum circuits, algorithms, and fundamental quantum mechanics.
 
 ---
 
 ### 📈 Current Pursuits
-- 🔭 Analyzing astrophysical datasets and building numerical models.
-- 💻 Deepening my skills in data science frameworks and Python applications.
-- ♟️ Unwinding with a game of chess, focusing on tactical depth and opening strategies.
-- 📸 Capturing the world through digital photography and landscape videography.
+* 🔭 Analyzing high-energy astrophysical datasets and building numerical models.
+* 💻 Deepening competencies in data science frameworks and Python applications.
+* ♟️ Unwinding with a game of chess, focusing on tactical depth and strategic opening systems.
+* 📸 Documenting natural and architectural landscapes through digital photography and cinematography.
 
 ---
-*“Somewhere, something incredible is waiting to be known.”* — **Carl Sagan**
+
+*"Somewhere, something incredible is waiting to be known."* — **Carl Sagan**
