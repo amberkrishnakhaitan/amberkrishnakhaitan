@@ -1,8 +1,8 @@
-<img width="1056" height="265" alt="Screenshot 2026-05-22 at 4 59 52 AM" src="https://github.com/user-attachments/assets/1888eb64-0551-48e8-925e-b87b2d7ff599" />
+<img width="1056" height="265" alt="Screenshot 2026-05-22 at 4 59 52 AM" src="https://github.com/user-attachments/assets/1888eb64-0551-48e8-925e-b87b2d7ff599" />
 
 # Amber Krishna Khaitan 🌌
 
-I am an undergraduate physics student at IISER Kolkata specializing in computational astrophysics and foundational physics. I leverage numerical simulations, data science frameworks, and quantum computing paradigms to model complex physical systems.
+I am a 3rd-year undergraduate physics student (BS-MS) at IISER Kolkata, building foundational knowledge in theoretical astrophysics, cosmology, and particle physics. My academic focus centers on utilizing coursework and computational projects to explore dark matter dynamics, galaxy evolution, and fundamental relativistic and quantum mechanics.
 
 ---
 
@@ -16,18 +16,18 @@ I am an undergraduate physics student at IISER Kolkata specializing in computati
 
 ---
 
-### 🌌 Fields I Indulge In
-* **Astrophysics & Astronomy:** High-energy phenomena, relativistic mechanics, and compact objects (black holes, neutron stars, and pulsars).
-* **Computational Physics:** Numerical modeling, scientific computing, and statistical data analysis.
-* **Quantum Computing:** Exploring quantum circuits, algorithms, and fundamental quantum mechanics.
+### 🌌 Academic Interests & Focus Areas
+- **Astrophysics & Cosmology:** Theoretical modeling of dark matter (including Bose-Einstein Condensate/ULDM halos), galaxy merger dynamics, and compact objects.
+- **Computational Physics:** N-body simulations, astronomical image processing (querying FITS data via NASA SkyView), and Python-based numerical analysis.
+- **Foundational Physics:** Building core competency in General Relativity, Quantum Mechanics, and Mathematical Methods in Physics.
 
 ---
 
-### 📈 Current Pursuits
-* 🔭 Analyzing high-energy astrophysical datasets and building numerical models.
-* 💻 Deepening competencies in data science frameworks and Python applications.
-* ♟️ Unwinding with a game of chess, focusing on tactical depth and strategic opening systems.
-* 📸 Documenting natural and architectural landscapes through digital photography and cinematography.
+### 📈 Recent Projects & Pursuits
+- 🔭 **Astrophysics Research:** Recently presented a poster at the YATI4 conference (ICSP Kolkata) on the linear perturbation analysis of rotating BEC dark matter halos, based on my summer research internship at Tezpur University.
+- 💻 **Computational Modeling:** Simulating 1.3 billion-year galactic collisions using restricted N-body frameworks to analyze orbital decay and tidal forces.
+- 🌌 **Observational Data:** Developing Python scripts (NumPy, Astropy) to generate representative-color astronomical image catalogs from DSS2 surveys.
+- ♟️ **Unwinding:** Studying tactical depth and opening strategies in chess (such as the King's Gambit) and documenting landscapes through digital photography and video editing.
 
 ---
 
